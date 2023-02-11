@@ -1,0 +1,4 @@
+! 2023-02-11 https://www.fussballdaten.de
+www.fussballdaten.de###display-ads
+www.fussballdaten.de##.fullbanner.text-center.p10
+www.fussballdaten.de##.pb5.pt5.fs12.fwb.text-center
