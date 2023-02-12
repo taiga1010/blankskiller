@@ -27,3 +27,18 @@ global.techradar.com##.trbc.listingResults > .result2.small.listingResult
 global.techradar.com###desktop-in-article
 global.techradar.com###sidebar-popular-top
 global.techradar.com###sidebar-top
+
+! 2023-02-12 https://www.sueddeutsche.de
+www.sueddeutsche.de##.sz-wrapper > div
+
+! 2023-02-12 https://www.zeit.de
+www.zeit.de##.paywall-footer__aside
+www.zeit.de##.paywall-footer__wrapper
+
+! 2023-02-12 https://projects.fivethirtyeight.com
+projects.fivethirtyeight.com###ad
+
+! 2023-02-12 https://tarnkappe.info
+tarnkappe.info##.is-full.column
+tarnkappe.info##.desktop-only
+tarnkappe.info###ember11 > div
