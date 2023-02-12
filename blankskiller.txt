@@ -2,3 +2,28 @@
 www.fussballdaten.de###display-ads
 www.fussballdaten.de##.fullbanner.text-center.p10
 www.fussballdaten.de##.pb5.pt5.fs12.fwb.text-center
+
+! 2023-02-12 https://www.techradar.com
+www.techradar.com##.dfp-leaderboard-container
+www.techradar.com###desktop-in-article
+www.techradar.com###sidebar-top
+www.techradar.com###sidebar-popular-top
+www.techradar.com###affiliate-disclaimer
+
+! 2023-02-12 https://global.techradar.com
+global.techradar.com##.dfp-leaderboard-container
+global.techradar.com##.ad-unit.static-lightbox2
+global.techradar.com##.result7.small.listingResult > .sponsored-post
+global.techradar.com##.ad-unit.static-lightbox3
+global.techradar.com##.reviews.listingResults > .result2.small.listingResult > .sponsored-post
+global.techradar.com##.reviews.listingResults > .result2.small.listingResult
+global.techradar.com##.news.listingResults > .result7.small.listingResult
+global.techradar.com##.how-to.listingResults > .result2.small.listingResult > .sponsored-post
+global.techradar.com##.how-to.listingResults > .result2.small.listingResult
+global.techradar.com##.deals.listingResults > .result2.small.listingResult > .sponsored-post
+global.techradar.com##.deals.listingResults > .result2.small.listingResult
+global.techradar.com##.trbc.listingResults > .result2.small.listingResult > .sponsored-post
+global.techradar.com##.trbc.listingResults > .result2.small.listingResult
+global.techradar.com###desktop-in-article
+global.techradar.com###sidebar-popular-top
+global.techradar.com###sidebar-top
