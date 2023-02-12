@@ -42,3 +42,6 @@ projects.fivethirtyeight.com###ad
 tarnkappe.info##.is-full.column
 tarnkappe.info##.desktop-only
 tarnkappe.info###ember11 > div
+
+! 2023-02-12 https://www.spiegel.de
+www.spiegel.de##.md\:flex-wrap.lg\:flex-wrap.sm\:flex-col.flex > div.relative.sm\:w-full.md\:w-6\/12.lg\:w-4\/12.z-10 > .sm\:px-16.md\:px-24.lg\:px-24.sm\:py-16.md\:py-24.lg\:py-24
