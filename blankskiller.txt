@@ -45,3 +45,29 @@ tarnkappe.info###ember11 > div
 
 ! 2023-02-12 https://www.spiegel.de
 www.spiegel.de##.md\:flex-wrap.lg\:flex-wrap.sm\:flex-col.flex > div.relative.sm\:w-full.md\:w-6\/12.lg\:w-4\/12.z-10 > .sm\:px-16.md\:px-24.lg\:px-24.sm\:py-16.md\:py-24.lg\:py-24
+
+! 2023-02-12 https://www.welt.de
+www.welt.de##.c-grid__item--is-full.c-grid__item--is-first-of-odd.c-grid__item
+
+! 2023-02-13 https://www.welt.de
+www.welt.de##section.c-stage.c-page-container:nth-of-type(24)
+www.welt.de##.c-ad--has-distance.c-ad__billboard2.c-spot
+www.welt.de##li.c-grid__item--is-one-third.c-grid__item > .c-teaser-oembed.o-teaser
+
+! 2023-02-13 https://www.mopo.de
+www.mopo.de##.elementor-widget-posts.elementor-widget.elementor-grid\%s-4.elementor-element-88d39bd.elementor-element > .elementor-widget-container > .skin-slider-default-4.skin-slider-default.skin-slider
+www.mopo.de##.elementor-hidden-phone.mopo-ads-column.mopo-side-column.elementor-element-b95886d.elementor-element.elementor-top-column.elementor-col-50.elementor-column > .elementor-element-populated.elementor-widget-wrap
+
+! 2023-02-13 https://www.spiegel.de
+www.spiegel.de##.sm\:hidden.md\:hidden.sm\:-mr-4.md\:-mr-4.lg\:pt-16.h-full.absolute
+
+! 2023-02-13 https://www.kicker.de
+www.kicker.de##section.kick__modul--news.kick__modul:nth-of-type(36)
+
+! 2023-02-13 https://www.zeit.de
+www.zeit.de##.cp-area--headed.cp-area > .zon-teaser-standard--ad.zon-teaser-standard
+www.zeit.de##.cp-area--shop.cp-area
+www.zeit.de##div.cp-region--gallery.cp-region
+
+! 2023-02-13 https://www.faz.net
+www.faz.net##div.o-ModuleWrapper-is-first.o-ModuleWrapper-has-page-background.o-ModuleWrapper-has-more-bottom-gap.o-ModuleWrapper
