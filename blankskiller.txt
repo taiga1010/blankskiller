@@ -71,3 +71,28 @@ www.zeit.de##div.cp-region--gallery.cp-region
 
 ! 2023-02-13 https://www.faz.net
 www.faz.net##div.o-ModuleWrapper-is-first.o-ModuleWrapper-has-page-background.o-ModuleWrapper-has-more-bottom-gap.o-ModuleWrapper
+
+! 2023-02-15 https://www.netzwelt.de
+www.netzwelt.de##div.glide--swipeable.glide--slider.glide--ltr.lazyloaded.mb-10.bestlist.glide
+www.netzwelt.de##div.mb-40.mt-0.c-gr.fs-ms
+www.netzwelt.de##div.c-gr.fs-ms.d-f.w-100:nth-of-type(1)
+www.netzwelt.de##h2:nth-of-type(1)
+www.netzwelt.de##div.c-gr.fs-ms.d-f.w-100
+
+! 2023-02-15 https://www.how2shout.com
+www.how2shout.com##.widget_custom_html.inner-padding.widget.widget_text
+www.how2shout.com###page > .adsbyvli
+
+! 2023-02-16 https://www.linuxfordevices.com
+www.linuxfordevices.com##div.code-block-2.code-block:nth-of-type(16)
+www.linuxfordevices.com##div.code-block-2.code-block:nth-of-type(11)
+www.linuxfordevices.com##div.code-block-2.code-block:nth-of-type(7)
+www.linuxfordevices.com##.code-block-6.code-block
+www.linuxfordevices.com##.code-block-1.code-block
+www.linuxfordevices.com##.code-block-4.code-block
+www.linuxfordevices.com##.code-block-3.code-block
+www.linuxfordevices.com##.code-block-5.code-block
+www.linuxfordevices.com##div.code-block-2.code-block
+
+! 2023-02-16 https://www.howtoforge.de
+www.howtoforge.de###howtoforge_de-link-h-large-1
