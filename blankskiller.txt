@@ -96,3 +96,37 @@ www.linuxfordevices.com##div.code-block-2.code-block
 
 ! 2023-02-16 https://www.howtoforge.de
 www.howtoforge.de###howtoforge_de-link-h-large-1
+
+! 2023-02-17 https://www.faz.net
+www.faz.net##.o-ModuleWrapper-has-page-background.o-ModuleWrapper.js-o-ModuleWrapper
+
+! 2023-02-18 https://www.kicker.de
+www.kicker.de##.kick__ad__taboola
+
+! 2023-02-19 https://www.welt.de
+www.welt.de##.c-ad--has-distance.c-spot
+
+! 2023-02-19 https://www.film-rezensionen.de
+www.film-rezensionen.de##p:nth-of-type(4)
+
+! 2023-02-19 https://www.kuketz-blog.de
+www.kuketz-blog.de##.link-container
+
+! 2023-02-22 https://waifu2x.udp.jp
+waifu2x.udp.jp##.all-page > div
+
+! 2023-02-23 https://dict.leo.org
+dict.leo.org###adv-sitebar
+dict.leo.org##.p-v.gray
+dict.leo.org##div.m-bottom-large:nth-of-type(5)
+dict.leo.org###adv-drectangle2
+dict.leo.org##div.m-bottom-large > .darkgray
+dict.leo.org###topBranding > div > .gray
+dict.leo.org###secondColumn > .m-bottom-large
+
+! 2023-02-23 https://praxistipps.chip.de
+praxistipps.chip.de##.mt-xs.fb-col-lg-10.fb-col-md-10 > .Article__Ad
+praxistipps.chip.de##.mt-xs.fb-col-lg-10.fb-col-md-10
+praxistipps.chip.de##.fb-col-12 > .Article__Ad
+praxistipps.chip.de##.fb-col-12
+praxistipps.chip.de##.mt-lg.bg-gray-ls.is-shopping.Note
