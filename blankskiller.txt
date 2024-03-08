@@ -1,132 +1,34 @@
-! 2023-02-11 https://www.fussballdaten.de
-www.fussballdaten.de###display-ads
-www.fussballdaten.de##.fullbanner.text-center.p10
-www.fussballdaten.de##.pb5.pt5.fs12.fwb.text-center
-
-! 2023-02-12 https://www.techradar.com
-www.techradar.com##.dfp-leaderboard-container
-www.techradar.com###desktop-in-article
-www.techradar.com###sidebar-top
-www.techradar.com###sidebar-popular-top
-www.techradar.com###affiliate-disclaimer
-
-! 2023-02-12 https://global.techradar.com
-global.techradar.com##.dfp-leaderboard-container
-global.techradar.com##.ad-unit.static-lightbox2
-global.techradar.com##.result7.small.listingResult > .sponsored-post
-global.techradar.com##.ad-unit.static-lightbox3
-global.techradar.com##.reviews.listingResults > .result2.small.listingResult > .sponsored-post
-global.techradar.com##.reviews.listingResults > .result2.small.listingResult
-global.techradar.com##.news.listingResults > .result7.small.listingResult
-global.techradar.com##.how-to.listingResults > .result2.small.listingResult > .sponsored-post
-global.techradar.com##.how-to.listingResults > .result2.small.listingResult
-global.techradar.com##.deals.listingResults > .result2.small.listingResult > .sponsored-post
-global.techradar.com##.deals.listingResults > .result2.small.listingResult
-global.techradar.com##.trbc.listingResults > .result2.small.listingResult > .sponsored-post
-global.techradar.com##.trbc.listingResults > .result2.small.listingResult
-global.techradar.com###desktop-in-article
-global.techradar.com###sidebar-popular-top
-global.techradar.com###sidebar-top
-
-! 2023-02-12 https://www.sueddeutsche.de
-www.sueddeutsche.de##.sz-wrapper > div
-
-! 2023-02-12 https://www.zeit.de
-www.zeit.de##.paywall-footer__aside
-www.zeit.de##.paywall-footer__wrapper
-
-! 2023-02-12 https://projects.fivethirtyeight.com
-projects.fivethirtyeight.com###ad
-
-! 2023-02-12 https://tarnkappe.info
-tarnkappe.info##.is-full.column
-tarnkappe.info##.desktop-only
-tarnkappe.info###ember11 > div
-
-! 2023-02-12 https://www.spiegel.de
-www.spiegel.de##.md\:flex-wrap.lg\:flex-wrap.sm\:flex-col.flex > div.relative.sm\:w-full.md\:w-6\/12.lg\:w-4\/12.z-10 > .sm\:px-16.md\:px-24.lg\:px-24.sm\:py-16.md\:py-24.lg\:py-24
-
-! 2023-02-12 https://www.welt.de
-www.welt.de##.c-grid__item--is-full.c-grid__item--is-first-of-odd.c-grid__item
-
-! 2023-02-13 https://www.welt.de
-www.welt.de##section.c-stage.c-page-container:nth-of-type(24)
-www.welt.de##.c-ad--has-distance.c-ad__billboard2.c-spot
-www.welt.de##li.c-grid__item--is-one-third.c-grid__item > .c-teaser-oembed.o-teaser
-
-! 2023-02-13 https://www.mopo.de
-www.mopo.de##.elementor-widget-posts.elementor-widget.elementor-grid\%s-4.elementor-element-88d39bd.elementor-element > .elementor-widget-container > .skin-slider-default-4.skin-slider-default.skin-slider
-www.mopo.de##.elementor-hidden-phone.mopo-ads-column.mopo-side-column.elementor-element-b95886d.elementor-element.elementor-top-column.elementor-col-50.elementor-column > .elementor-element-populated.elementor-widget-wrap
-
-! 2023-02-13 https://www.spiegel.de
-www.spiegel.de##.sm\:hidden.md\:hidden.sm\:-mr-4.md\:-mr-4.lg\:pt-16.h-full.absolute
-
-! 2023-02-13 https://www.kicker.de
-www.kicker.de##section.kick__modul--news.kick__modul:nth-of-type(36)
-
-! 2023-02-13 https://www.zeit.de
-www.zeit.de##.cp-area--headed.cp-area > .zon-teaser-standard--ad.zon-teaser-standard
-www.zeit.de##.cp-area--shop.cp-area
-www.zeit.de##div.cp-region--gallery.cp-region
-
-! 2023-02-13 https://www.faz.net
-www.faz.net##div.o-ModuleWrapper-is-first.o-ModuleWrapper-has-page-background.o-ModuleWrapper-has-more-bottom-gap.o-ModuleWrapper
-
-! 2023-02-15 https://www.netzwelt.de
-www.netzwelt.de##div.glide--swipeable.glide--slider.glide--ltr.lazyloaded.mb-10.bestlist.glide
-www.netzwelt.de##div.mb-40.mt-0.c-gr.fs-ms
-www.netzwelt.de##div.c-gr.fs-ms.d-f.w-100:nth-of-type(1)
-www.netzwelt.de##h2:nth-of-type(1)
-www.netzwelt.de##div.c-gr.fs-ms.d-f.w-100
-
-! 2023-02-15 https://www.how2shout.com
-www.how2shout.com##.widget_custom_html.inner-padding.widget.widget_text
-www.how2shout.com###page > .adsbyvli
-
-! 2023-02-16 https://www.linuxfordevices.com
-www.linuxfordevices.com##div.code-block-2.code-block:nth-of-type(16)
-www.linuxfordevices.com##div.code-block-2.code-block:nth-of-type(11)
-www.linuxfordevices.com##div.code-block-2.code-block:nth-of-type(7)
-www.linuxfordevices.com##.code-block-6.code-block
-www.linuxfordevices.com##.code-block-1.code-block
-www.linuxfordevices.com##.code-block-4.code-block
-www.linuxfordevices.com##.code-block-3.code-block
-www.linuxfordevices.com##.code-block-5.code-block
-www.linuxfordevices.com##div.code-block-2.code-block
-
-! 2023-02-16 https://www.howtoforge.de
-www.howtoforge.de###howtoforge_de-link-h-large-1
-
-! 2023-02-17 https://www.faz.net
-www.faz.net##.o-ModuleWrapper-has-page-background.o-ModuleWrapper.js-o-ModuleWrapper
-
-! 2023-02-18 https://www.kicker.de
-www.kicker.de##.kick__ad__taboola
-
-! 2023-02-19 https://www.welt.de
-www.welt.de##.c-ad--has-distance.c-spot
-
-! 2023-02-19 https://www.film-rezensionen.de
-www.film-rezensionen.de##p:nth-of-type(4)
-
-! 2023-02-19 https://www.kuketz-blog.de
-www.kuketz-blog.de##.link-container
-
-! 2023-02-22 https://waifu2x.udp.jp
-waifu2x.udp.jp##.all-page > div
-
-! 2023-02-23 https://dict.leo.org
+! 2024-03-01 https://dict.leo.org
+dict.leo.org###adv-banner
 dict.leo.org###adv-sitebar
+dict.leo.org###topBranding
 dict.leo.org##.p-v.gray
-dict.leo.org##div.m-bottom-large:nth-of-type(5)
 dict.leo.org###adv-drectangle2
 dict.leo.org##div.m-bottom-large > .darkgray
-dict.leo.org###topBranding > div > .gray
-dict.leo.org###secondColumn > .m-bottom-large
 
-! 2023-02-23 https://praxistipps.chip.de
-praxistipps.chip.de##.mt-xs.fb-col-lg-10.fb-col-md-10 > .Article__Ad
-praxistipps.chip.de##.mt-xs.fb-col-lg-10.fb-col-md-10
-praxistipps.chip.de##.fb-col-12 > .Article__Ad
-praxistipps.chip.de##.fb-col-12
-praxistipps.chip.de##.mt-lg.bg-gray-ls.is-shopping.Note
+! 2024-03-03 https://politpro.eu
+politpro.eu##section.ads-container
+
+! 2024-03-06 https://www.bild.de
+www.bild.de##.iframely-responsive
+www.bild.de##.article-text-link--ad.article-text-link
+
+! 2024-03-06 https://www.abendblatt.de
+www.abendblatt.de##aside.ad-slot-wrapper.my-3.lg\:h-ad-250
+
+! 2024-03-06 https://www.fussballdaten.de
+www.fussballdaten.de##.fullbanner.text-center.p10
+www.fussballdaten.de###display-ads
+www.fussballdaten.de##.pPYHjD
+www.fussballdaten.de###TshZYnyoME
+www.fussballdaten.de###jGupQqLR
+www.fussballdaten.de##.bDyylMJ92c6
+www.fussballdaten.de##.bDyylMJ
+www.fussballdaten.de##.lLyxxaY
+
+! 2024-03-08 https://www.chip.de
+www.chip.de##.BC-Content--Carousel.BC-Content
+www.chip.de##.is-compact.TopList--Count.TopList
+
+! 2024-03-08 https://www.sueddeutsche.de
+www.sueddeutsche.de##.css-1sheznu
