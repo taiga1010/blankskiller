@@ -27,8 +27,7 @@ www.fussballdaten.de##.bDyylMJ
 www.fussballdaten.de##.lLyxxaY
 
 ! 2024-03-08 https://www.chip.de
-www.chip.de##.BC-Content--Carousel.BC-Content
-www.chip.de##.is-compact.TopList--Count.TopList
+www.chip.de##.mb-lg.mt-lg
 
 ! 2024-03-08 https://www.sueddeutsche.de
 www.sueddeutsche.de##.css-1sheznu
