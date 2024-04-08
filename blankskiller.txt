@@ -1,33 +1,85 @@
+||privacy-mgmt.com$important
+||dailymotion.com/embed/$3p,frame,redirect=click2load.html
+||player.glomex.com/integration/$3p,frame,redirect=click2load.html
+||players.brightcove.net/$3p,frame,redirect=click2load.html
+||odysee.com/$3p,frame,redirect=click2load.html
+||rumble.com/embed/$3p,frame,redirect=click2load.html
+||lbry.tv/$3p,frame,redirect=click2load.html
+||widget.spreaker.com/$3p,frame,redirect=click2load.html
+||media.theplattform.net/videos/embed/$3p,frame,redirect=click2load.html
+
 ! 2024-03-01 https://dict.leo.org
 dict.leo.org###adv-banner
 dict.leo.org###adv-sitebar
 dict.leo.org###topBranding
-dict.leo.org##.p-v.gray
-dict.leo.org###adv-drectangle2
-dict.leo.org##div.m-bottom-large > .darkgray
+dict.leo.org##[data-dz-ui="adv-drectangle2"]
+dict.leo.org##[data-dz-ui="adv-sitebar"]
 
 ! 2024-03-03 https://politpro.eu
 politpro.eu##section.ads-container
 
-! 2024-03-06 https://www.bild.de
-www.bild.de##.iframely-responsive
-www.bild.de##.article-text-link--ad.article-text-link
-
 ! 2024-03-06 https://www.abendblatt.de
 www.abendblatt.de##aside.ad-slot-wrapper.my-3.lg\:h-ad-250
 
-! 2024-03-06 https://www.fussballdaten.de
+! 2024-03-10 https://tarnkappe.info
+tarnkappe.info##.sidebar-sticky.column
+
+! 2024-03-18 https://link-base.ms
+link-base.ms###b4nn3r
+
+! 2024-03-21 https://www.fussballdaten.de
+www.fussballdaten.de##img[referrerpolicy="unsafe-url"]
+www.fussballdaten.de##.hidden-xs.box-highlights.bs.box
+www.fussballdaten.de##div:matches-css(before, content: /Anzeige/)
 www.fussballdaten.de##.fullbanner.text-center.p10
-www.fussballdaten.de###display-ads
-www.fussballdaten.de##.pPYHjD
-www.fussballdaten.de###TshZYnyoME
-www.fussballdaten.de###jGupQqLR
-www.fussballdaten.de##.bDyylMJ92c6
-www.fussballdaten.de##.bDyylMJ
-www.fussballdaten.de##.lLyxxaY
+www.fussballdaten.de###dugout-video-0
+www.fussballdaten.de###ufMmcnb
+www.fussballdaten.de##div[style="bottom: 0; height: 100px; left: 0; position: fixed; right: 0;"]
 
-! 2024-03-08 https://www.chip.de
-www.chip.de##.mb-lg.mt-lg
 
-! 2024-03-08 https://www.sueddeutsche.de
+! 2024-03-21 https://9gag.com
+9gag.com##.signup-list-banner
+9gag.com##.signup-side-banner
+
+! 2024-03-21 https://www.sueddeutsche.de
+www.sueddeutsche.de##div[data-hydration-component-name="VoucherWidgetToken"]
 www.sueddeutsche.de##.css-1sheznu
+
+! 2024-03-22 https://www.golem.de
+www.golem.de##[id^="iqadtile"]
+www.golem.de##.g.g2.grcol1
+www.golem.de##.g.g2.grcol3
+
+! 2024-03-28 https://nxbrew.com
+nxbrew.com###wrapper:style(margin: 0px !important;)
+nxbrew.com##.simple-banner
+
+! 2024-03-30 https://www.finanzen.net
+www.finanzen.net##.page-layout__ad-header-top
+www.finanzen.net##span:has-text(/Werbung/)
+www.finanzen.net##.page-layout__ad-right
+www.finanzen.net##div.OUTBRAIN
+www.finanzen.net##div[class^="fin-ob-container"]
+
+! 2024-04-01 https://www.photopea.com
+www.photopea.com##+js(set-constant.js, location.hash, '8887')
+
+! 2024-04-02 https://www.waifu2x.net
+www.waifu2x.net##div[style*="width: 90%;height:120px"]
+www.waifu2x.net##div[style*="min-height: 270px; margin: 1em"]
+www.waifu2x.net##.dmm-games
+
+! 2024-04-03 https://www.bild.de
+www.bild.de##.ad-links.subnav
+www.bild.de##section[data-block-id="bild-deals"]
+www.bild.de##.fig.fig--portrait.fig--inline.fig--embed
+
+! 2024-04-03 https://www.spiegel.de
+www.spiegel.de##section[data-area="block>marketplace"]
+
+! 2024-04-03 https://www.forbes.com
+www.forbes.com##.for-you__main
+
+! 2024-04-03 https://www.focus.de
+www.focus.de##div[id^="playerInlinefwid"].cls_videoRecoCT:style(height: 340px !important;)
+www.focus.de##.clearfix.actions
